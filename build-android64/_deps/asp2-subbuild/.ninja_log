@@ -1,0 +1,21 @@
+# ninja log v7
+4	110	7952160100229653	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-mkdir	2a82c9289c66f9ae
+4	110	7952160100229653	D:/gdvr/build-android64/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-mkdir	2a82c9289c66f9ae
+111	6528	7952160164404814	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-download	4f33f73243392a46
+111	6528	7952160164404814	D:/gdvr/build-android64/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-download	4f33f73243392a46
+6528	6806	7952160164552756	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-update	2c8634d496f9aa61
+6528	6806	7952160164552756	D:/gdvr/build-android64/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-update	2c8634d496f9aa61
+6806	6909	7952160168215716	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-patch	1fbdc893ed01ba93
+6806	6909	7952160168215716	D:/gdvr/build-android64/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-patch	1fbdc893ed01ba93
+6909	7013	7952160169250669	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-configure	819ab3c380e946c6
+6909	7013	7952160169250669	D:/gdvr/build-android64/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-configure	819ab3c380e946c6
+7013	7111	7952160170230783	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-build	cace01d03eabbc80
+7013	7111	7952160170230783	D:/gdvr/build-android64/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-build	cace01d03eabbc80
+7111	7211	7952160171250219	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-install	56f67f0723bcdcc6
+7111	7211	7952160171250219	D:/gdvr/build-android64/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-install	56f67f0723bcdcc6
+7212	7314	7952160172292457	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-test	45c64364826f8217
+7212	7314	7952160172292457	D:/gdvr/build-android64/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-test	45c64364826f8217
+7314	7460	7952160173727540	CMakeFiles/asp2-populate-complete	44be53fe84108872
+7314	7460	7952160173727540	asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-done	44be53fe84108872
+7314	7460	7952160173727540	D:/gdvr/build-android64/_deps/asp2-subbuild/CMakeFiles/asp2-populate-complete	44be53fe84108872
+7314	7460	7952160173727540	D:/gdvr/build-android64/_deps/asp2-subbuild/asp2-populate-prefix/src/asp2-populate-stamp/asp2-populate-done	44be53fe84108872

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/CMakeFiles/geode-populate"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/CMakeFiles/geode-populate.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/CMakeFiles/geode-populate-complete.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-build.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-configure.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-download.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-install.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-patch.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-test.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"geode-populate"
+		],
+		"name" : "geode-populate"
+	}
+}

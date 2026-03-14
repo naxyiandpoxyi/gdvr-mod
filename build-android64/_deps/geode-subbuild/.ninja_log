@@ -1,0 +1,21 @@
+# ninja log v7
+5	113	7952158779488778	geode-populate-prefix/src/geode-populate-stamp/geode-populate-mkdir	b76ce9cc6a233f54
+5	113	7952158779488778	D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-mkdir	b76ce9cc6a233f54
+113	56928	7952159347628593	geode-populate-prefix/src/geode-populate-stamp/geode-populate-download	bc6ebb7c46846ade
+113	56928	7952159347628593	D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-download	bc6ebb7c46846ade
+56928	61363	7952159347768093	geode-populate-prefix/src/geode-populate-stamp/geode-populate-update	c9ec517987377543
+56928	61363	7952159347768093	D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-update	c9ec517987377543
+61431	61546	7952159393786800	geode-populate-prefix/src/geode-populate-stamp/geode-populate-patch	7ace4f022495b16c
+61431	61546	7952159393786800	D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-patch	7ace4f022495b16c
+61546	61664	7952159394978217	geode-populate-prefix/src/geode-populate-stamp/geode-populate-configure	e9ae742e6d268bc7
+61546	61664	7952159394978217	D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-configure	e9ae742e6d268bc7
+61664	61771	7952159396068523	geode-populate-prefix/src/geode-populate-stamp/geode-populate-build	228eaeb9f2d152a7
+61664	61771	7952159396068523	D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-build	228eaeb9f2d152a7
+61771	61896	7952159397334272	geode-populate-prefix/src/geode-populate-stamp/geode-populate-install	a6807334f092da90
+61771	61896	7952159397334272	D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-install	a6807334f092da90
+61896	61996	7952159398296150	geode-populate-prefix/src/geode-populate-stamp/geode-populate-test	6f420379d271aa44
+61896	61996	7952159398296150	D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-test	6f420379d271aa44
+61996	62138	7952159399722889	CMakeFiles/geode-populate-complete	15241cc1357d7458
+61996	62138	7952159399722889	geode-populate-prefix/src/geode-populate-stamp/geode-populate-done	15241cc1357d7458
+61996	62138	7952159399722889	D:/gdvr/build-android64/_deps/geode-subbuild/CMakeFiles/geode-populate-complete	15241cc1357d7458
+61996	62138	7952159399722889	D:/gdvr/build-android64/_deps/geode-subbuild/geode-populate-prefix/src/geode-populate-stamp/geode-populate-done	15241cc1357d7458

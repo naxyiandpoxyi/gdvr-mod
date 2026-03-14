@@ -1,0 +1,35 @@
+{
+  "geode": "3.0.0-beta.1",
+  "gd": {
+    "win": "*",
+    "android": "*",
+    "mac": "*"
+  },
+  "id": "david.gdvr",
+  "name": "GDVR",
+  "version": "v1.0.0",
+  "developer": "david",
+  "description": "Play Geometry Dash in VR using OpenXR! Supports Meta Quest (Standalone) and SteamVR/Oculus Link (PC).",
+  "settings": {
+    "fps-overclock": {
+      "name": "FPS Overclock",
+      "type": "int",
+      "default": 90,
+      "description": "Overrides the game's FPS when in VR (60, 75, 90, 120). Defaults to 90.",
+      "min": 60,
+      "max": 144
+    },
+    "screen-distance": {
+      "name": "Screen Distance",
+      "type": "float",
+      "default": 1.5,
+      "description": "Distance of the virtual screen in meters."
+    },
+    "screen-size": {
+      "name": "Screen Size",
+      "type": "float",
+      "default": 2.5,
+      "description": "Width of the virtual screen in meters."
+    }
+  }
+}

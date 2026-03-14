@@ -1,0 +1,51 @@
+name: Build Geode Mod
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    strategy:
+      fail-fast: false
+      matrix:
+        config:
+          - name: Windows
+            os: windows-latest
+            cli_cmd: build
+
+          - name: Android32
+            os: ubuntu-latest
+            cli_cmd: build --platform android32
+
+          - name: Android64
+            os: ubuntu-latest
+            cli_cmd: build --platform android64
+
+    name: Build ${{ matrix.config.name }}
+    runs-on: ${{ matrix.config.os }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build the mod
+        uses: geode-sdk/build-geode-mod@main
+        with:
+          bindings: geode-sdk/bindings
+          bindings-ref: main
+          combine: true
+          build-command: ${{ matrix.config.cli_cmd }}
+          
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: geode-build-${{ matrix.config.name }}
+          path: |
+            build/david.gdvr.geode
+            build-android32/david.gdvr.geode
+            build-android64/david.gdvr.geode

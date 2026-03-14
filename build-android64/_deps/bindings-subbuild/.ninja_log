@@ -1,0 +1,21 @@
+# ninja log v7
+4	106	7952159485566717	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir	308c2efd6d9f79c7
+4	106	7952159485566717	D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir	308c2efd6d9f79c7
+107	20894	7952159693399417	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download	677d177e90a586cf
+107	20894	7952159693399417	D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download	677d177e90a586cf
+20895	25485	7952159693562247	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	a330122b4bb8b8c5
+20895	25485	7952159693562247	D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update	a330122b4bb8b8c5
+25486	25597	7952159740431224	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	e7db247ed74d3b47
+25486	25597	7952159740431224	D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch	e7db247ed74d3b47
+25597	25700	7952159741457793	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	656606cf5f197abc
+25597	25700	7952159741457793	D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure	656606cf5f197abc
+25700	25807	7952159742540836	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	26051cfe9807dd49
+25700	25807	7952159742540836	D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build	26051cfe9807dd49
+25807	25913	7952159743603750	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	1c02c225ef344e09
+25807	25913	7952159743603750	D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install	1c02c225ef344e09
+25913	26017	7952159744637085	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	37bf679e7377c7b1
+25913	26017	7952159744637085	D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test	37bf679e7377c7b1
+26017	26149	7952159745991234	CMakeFiles/bindings-populate-complete	b1e289911573f32
+26017	26149	7952159745991234	bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	b1e289911573f32
+26017	26149	7952159745991234	D:/gdvr/build-android64/_deps/bindings-subbuild/CMakeFiles/bindings-populate-complete	b1e289911573f32
+26017	26149	7952159745991234	D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-done	b1e289911573f32

@@ -1,0 +1,21 @@
+# ninja log v7
+4	109	7952159930744602	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	20d7e051fca1f1fe
+4	109	7952159930744602	D:/gdvr/build-android64/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	20d7e051fca1f1fe
+110	14889	7952160078516309	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	1c78e35ff085a432
+110	14889	7952160078516309	D:/gdvr/build-android64/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	1c78e35ff085a432
+14889	15210	7952160078657016	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	ed5c49ad3d5d8d89
+14889	15210	7952160078657016	D:/gdvr/build-android64/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	ed5c49ad3d5d8d89
+15211	15343	7952160083049587	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	155fc70ff3462ef3
+15211	15343	7952160083049587	D:/gdvr/build-android64/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	155fc70ff3462ef3
+15343	15454	7952160084155109	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	63ed24128cf87347
+15343	15454	7952160084155109	D:/gdvr/build-android64/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	63ed24128cf87347
+15454	15559	7952160085204684	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	7155522546f8459d
+15454	15559	7952160085204684	D:/gdvr/build-android64/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	7155522546f8459d
+15559	15664	7952160086268155	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	511a15a4e2d43105
+15559	15664	7952160086268155	D:/gdvr/build-android64/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	511a15a4e2d43105
+15665	15772	7952160087344284	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	66c61b1c84974d53
+15665	15772	7952160087344284	D:/gdvr/build-android64/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	66c61b1c84974d53
+15772	15919	7952160088804439	CMakeFiles/fmt-populate-complete	7604cf0dd5d61eab
+15772	15919	7952160088804439	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	7604cf0dd5d61eab
+15772	15919	7952160088804439	D:/gdvr/build-android64/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	7604cf0dd5d61eab
+15772	15919	7952160088804439	D:/gdvr/build-android64/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	7604cf0dd5d61eab

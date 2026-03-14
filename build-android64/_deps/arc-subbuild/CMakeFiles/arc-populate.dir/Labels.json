@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/CMakeFiles/arc-populate"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/CMakeFiles/arc-populate.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/CMakeFiles/arc-populate-complete.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-build.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-configure.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-download.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-install.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-patch.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-test.rule"
+		},
+		{
+			"file" : "D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"arc-populate"
+		],
+		"name" : "arc-populate"
+	}
+}

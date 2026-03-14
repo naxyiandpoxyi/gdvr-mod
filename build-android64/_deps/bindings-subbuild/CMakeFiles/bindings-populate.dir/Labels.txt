@@ -1,0 +1,14 @@
+# Target labels
+ bindings-populate
+# Source files and their labels
+D:/gdvr/build-android64/_deps/bindings-subbuild/CMakeFiles/bindings-populate
+D:/gdvr/build-android64/_deps/bindings-subbuild/CMakeFiles/bindings-populate.rule
+D:/gdvr/build-android64/_deps/bindings-subbuild/CMakeFiles/bindings-populate-complete.rule
+D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-build.rule
+D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-configure.rule
+D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-download.rule
+D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-install.rule
+D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-mkdir.rule
+D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-patch.rule
+D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-test.rule
+D:/gdvr/build-android64/_deps/bindings-subbuild/bindings-populate-prefix/src/bindings-populate-stamp/bindings-populate-update.rule

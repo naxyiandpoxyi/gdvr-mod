@@ -1,0 +1,14 @@
+# Target labels
+ arc-populate
+# Source files and their labels
+D:/gdvr/build-android64/_deps/arc-subbuild/CMakeFiles/arc-populate
+D:/gdvr/build-android64/_deps/arc-subbuild/CMakeFiles/arc-populate.rule
+D:/gdvr/build-android64/_deps/arc-subbuild/CMakeFiles/arc-populate-complete.rule
+D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-build.rule
+D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-configure.rule
+D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-download.rule
+D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-install.rule
+D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-mkdir.rule
+D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-patch.rule
+D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-test.rule
+D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-update.rule

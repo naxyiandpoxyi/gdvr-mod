@@ -1,0 +1,21 @@
+# ninja log v7
+5	105	7952160178348480	arc-populate-prefix/src/arc-populate-stamp/arc-populate-mkdir	3873c23110195f05
+5	105	7952160178348480	D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-mkdir	3873c23110195f05
+106	5922	7952160236513038	arc-populate-prefix/src/arc-populate-stamp/arc-populate-download	e79eb7d563302dc5
+106	5922	7952160236513038	D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-download	e79eb7d563302dc5
+5922	6245	7952160236626065	arc-populate-prefix/src/arc-populate-stamp/arc-populate-update	ffd92c1d0680376a
+5922	6245	7952160236626065	D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-update	ffd92c1d0680376a
+6246	6358	7952160240842396	arc-populate-prefix/src/arc-populate-stamp/arc-populate-patch	53fe61e2e7750ff8
+6246	6358	7952160240842396	D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-patch	53fe61e2e7750ff8
+6359	6461	7952160241871377	arc-populate-prefix/src/arc-populate-stamp/arc-populate-configure	1d27316762991761
+6359	6461	7952160241871377	D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-configure	1d27316762991761
+6461	6563	7952160242898673	arc-populate-prefix/src/arc-populate-stamp/arc-populate-build	f87601647f1fe21c
+6461	6563	7952160242898673	D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-build	f87601647f1fe21c
+6563	6666	7952160243918447	arc-populate-prefix/src/arc-populate-stamp/arc-populate-install	63e3350e5b6b65c0
+6563	6666	7952160243918447	D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-install	63e3350e5b6b65c0
+6666	6767	7952160244964861	arc-populate-prefix/src/arc-populate-stamp/arc-populate-test	32127e4e93eb34f8
+6666	6767	7952160244964861	D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-test	32127e4e93eb34f8
+6767	6907	7952160246316219	CMakeFiles/arc-populate-complete	c96a4d44dfcb9d8
+6767	6907	7952160246316219	arc-populate-prefix/src/arc-populate-stamp/arc-populate-done	c96a4d44dfcb9d8
+6767	6907	7952160246316219	D:/gdvr/build-android64/_deps/arc-subbuild/CMakeFiles/arc-populate-complete	c96a4d44dfcb9d8
+6767	6907	7952160246316219	D:/gdvr/build-android64/_deps/arc-subbuild/arc-populate-prefix/src/arc-populate-stamp/arc-populate-done	c96a4d44dfcb9d8
